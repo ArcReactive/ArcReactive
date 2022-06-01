@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Spring.
 - 💞️ I’m looking to collaborate on New project.
 - 📫 How to reach me 
+-             npsudusinghe@gmail.com
 -             https://www.linkedin.com/in/nuwan-sudusinghe-90844518b
 
 <!---
