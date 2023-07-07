@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nuwan Sudusinghe.
 - 👀 I’m interested in Exploring new things.
-- 🌱 I’m currently learning Spring.
+- 🌱 I’m currently learning <IDEAS>.
 - 💞️ I’m looking to collaborate on New project.
 - 📫 How to reach me 
 -             npsudusinghe@gmail.com
