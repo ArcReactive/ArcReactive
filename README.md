@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nuwan Sudusinghe.
 - 👀 I’m interested in Exploring new things.
-- 🌱 I’m currently working on Angular + Firebase.
-- 💞️ #java #angular #firebase.
+- 🌱 I’m currently working on NodeJS + AWS.
+- 💞️ #java #angular #nodejs #firebase #aws.
 - 📫 How to reach me 
 -             npsudusinghe@gmail.com
 -             https://www.linkedin.com/in/nuwan-sudusinghe-90844518b
