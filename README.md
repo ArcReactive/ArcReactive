@@ -8,14 +8,14 @@
 -->
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="800"/>
+  <!--img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="800"/-->
   
   # 👨‍💻 Nuwan Sudusinghe
   ### Full Stack Developer | Cloud Enthusiast | Tech Explorer
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+scalable+applications;Exploring+cloud+technologies;Always+learning+something+new)](https://git.io/typing-svg)
   
-  <img src="https://komarev.com/ghpvc/?username=nuwansudusinghe&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <!--img src="https://komarev.com/ghpvc/?username=nuwansudusinghe&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /-->
   
 </div>
 
