@@ -67,7 +67,7 @@ const nuwan = {
 
 </div>
 
----
+<!---
 
 ## 📊 GitHub Stats
 
@@ -79,7 +79,7 @@ const nuwan = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nuwansudusinghe&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
----
+--->
 
 ## 📫 Let's Connect!
 
