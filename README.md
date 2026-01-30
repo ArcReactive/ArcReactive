@@ -85,7 +85,7 @@ const nuwan = {
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:npsudusinghe.work@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-npsudusinghe.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:npsudusinghe.work@gmail.com)](mailto:npsudusinghe.work@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuwan-sudusinghe-90844518b)
   
   <br/>
